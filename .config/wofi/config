@@ -1,0 +1,3 @@
+[general]
+show-descriptions=false
+theme=~/.config/wofi/style.css

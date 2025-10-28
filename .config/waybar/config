@@ -1,0 +1,7 @@
+{
+  "layer": "top",
+  "position": "top",
+  "modules-left": ["sway/workspaces", "custom-clock"],
+  "modules-right": ["network", "pulseaudio", "battery"],
+  "custom-clock": { "exec": "date \'+%a %d %b %H:%M\'", "interval": 60 }
+}
